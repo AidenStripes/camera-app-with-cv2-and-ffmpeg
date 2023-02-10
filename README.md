@@ -2,4 +2,6 @@
 
 sudo apt install ffmpeg
 
+pip install opencv-python
+
 python camera.py
